@@ -17,7 +17,7 @@ I made the asumption the board has defined widht and a height (the game original
 
 * Naviage to solution's folder
 * Run *`docker-compose up` to spin up MongoDB
-* Run *`dotnet run --project ConwayLife` and navigate to the given url in the browser
+* Run dotnet run and navigate to the given url in the browser
 * Run the API using swagger UI
 
 ## List of API for the given requirements
